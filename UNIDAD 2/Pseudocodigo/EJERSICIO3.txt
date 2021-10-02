@@ -7,15 +7,15 @@ ALGORITMO ImprimirCuadrado;
 VAR
 
   INT num;
-  INT cuadrado;
+  INT sqr;
 
 INICIO
 
-  ESCRIBE("Ingresa el numero");
+  ESCRIBIR("Ingresa el numero");
   LEER(num);
-  cuadrado = num * num;
-
-  ESCRIBE("El número al cuadrado es: ",cuadrado);
+  sqr(numero);
+  
+  ESCRIBIR("El número al cuadrado es: ",sqr);
 
 
 FIN
