@@ -1,0 +1,27 @@
+/*
+Programa 4: Pedir al usuario nombre y apellidos, y que los imprima en un solo renglon. 
+/*
+
+ALGORITMO ImprimirNombreCompleto;
+
+VAR	
+
+   CHAR nom1;
+   CHAR nom2;
+   CHAR ape1;
+   CHAR ape2;
+
+INICIO
+ 
+  ESCRIBIR("Escribe tu primer nombre: ");
+  LEER(nom1);
+  ESCRIBIR("Escribe tu segundo nombre: ");
+  LEER(nom2);
+  ESCRIBIR("Escribe tu primer apellido: ");
+  LEER(ape1);
+  ESCRIBIR("Escribe tu segundo apellido: ");
+  LEER(ape2);
+
+  ESCRIBIR("Tu nombre completo es: ", nom1, nom2, ape1, ape2);
+
+FIN

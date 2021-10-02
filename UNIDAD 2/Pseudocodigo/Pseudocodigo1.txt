@@ -1,0 +1,23 @@
+/*
+Mi primer pseudocodigo
+Melany Marlen Chavez Ortiz
+ITPA
+TICS
+
+Programa que imprime nombre de usuario
+
+*/
+
+Algoritmo ImprimirNombre;
+
+VAR
+
+   CHAR nombre;
+
+INICIO 
+ 
+   ESCRIBIR("Ingresa el nombre: ");
+   LEER(nombre);
+   ESCRIBIR("Tu nombre es: ",nombre);
+
+FIN

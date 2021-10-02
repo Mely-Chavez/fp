@@ -1,0 +1,29 @@
+/*
+Mi primer pseudocodigo
+Melany Marlen Chavez Ortiz
+ITPA
+TICS
+
+Programa que imprime la suma de dos numeros
+
+*/
+
+ALGORITMO Suma;
+
+VAR
+  
+  INT num1;
+  INT num2;
+  INT resultado;
+
+INICIO
+  
+  ESCRIBIR("Ingresa el primer numero: ");
+  LEER(num1);
+  ESCRIBIR("Ingrese el segundo numero: ");
+  LEER(num2);
+  resultado = num1 + num2;
+
+  ESCRIBIR("La suma de los dos numero es: ",resultado);
+
+FIN

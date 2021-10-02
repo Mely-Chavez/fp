@@ -1,0 +1,21 @@
+/*
+Programa 3: Pedir a el usuario un numero y que se imprima el cuadrado de ese numero. 
+/*
+
+ALGORITMO ImprimirCuadrado;
+
+VAR
+
+  INT num;
+  INT cuadrado;
+
+INICIO
+
+  ESCRIBE("Ingresa el numero");
+  LEER(num);
+  cuadrado = num * num;
+
+  ESCRIBE("El número al cuadrado es: ",cuadrado);
+
+
+FIN
