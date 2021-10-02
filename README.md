@@ -8,9 +8,8 @@ Mi nombre es Melany Marlen Chavez Ortiz, estoy estudindo ingenieria en tecnologi
 ## UNIDAD 1:
 ### Objetivo
 *PrimerArchivo*: Comit de imprimacion
-
-### Objetivo
 *hola.py*: Mi primer programa en python
-
-### Objetivo
 *Examen.py*: Examen de unidad 1 en python
+
+## UNIDAD 2:
+### Objetivo
