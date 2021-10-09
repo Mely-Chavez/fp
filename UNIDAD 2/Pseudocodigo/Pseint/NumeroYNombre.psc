@@ -4,7 +4,7 @@ Algoritmo NumeroYNombre
 	a=0;
 	Escribir 'Escriba su nombre'
 	Leer Nombre
-	Escribir 'Inserte el numero que desea que se repita'
+	Escribir 'Inserte el numero de veces que desea repetir'
 	Leer n1
 	Mientras (a <n1) Hacer
 		Escribir Nombre;
